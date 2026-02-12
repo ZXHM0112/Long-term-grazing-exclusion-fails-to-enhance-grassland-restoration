@@ -1,5 +1,4 @@
 # Long-term-grazing-exclusion-fails-to-enhance-grassland-restoration
-https://doi.org/10.5061/dryad.jwstqjqhm](https://doi.org/10.5061/dryad.jwstqjqhm)
 
 ## Description of the data and file structure
 
