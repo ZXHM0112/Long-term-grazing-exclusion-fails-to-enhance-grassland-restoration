@@ -1,4 +1,4 @@
-# Long-term-grazing-exclusion-fails-to-enhance-grassland-restoration
+# Long term grazing exclusion fails to enhance grassland restoration
 
 ## Description of the data and file structure
 
